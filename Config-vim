@@ -1,0 +1,9 @@
+make folder with directory (~/.vim/setting)
+copy coc.vim, nerdtree.vim, floaterm.vim, fzf.vim and map.vim into (~/.vim/setting)
+
+make folder with directory (~/.vim/autoload)
+copy plug.vim into (~/.vim/autoload)
+
+open vim
+run :PlugInstall
+
